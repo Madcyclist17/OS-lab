@@ -1,5 +1,3 @@
-
-
     #include <stdio.h>  
     #define MAX_PROCESSES 10  
     #define MAX_RESOURCES 10  
@@ -13,7 +11,6 @@
       
     int main() {  
      int num_processes, num_resources;  
-      
 
  printf("Enter the number of processes: ");  
  scanf("%d", &num_processes);  
